@@ -1,0 +1,13 @@
+.tempo{
+    height: 1000px;
+    background-image: url(https://cdn.glitch.global/92ff48d2-5eab-4f12-a1a8-60becdac93c1/gojo%20muerto%20hd.png?v=1696458971067);
+    color:white;
+    background-size: cover;
+    background-position: center;
+    background-color:rgba(0,0,0,0.5);
+    background-blend-mode: darken;
+  }
+  .temporizador{
+    font-family: 'Noto Sans', sans-serif;
+  }
+  
